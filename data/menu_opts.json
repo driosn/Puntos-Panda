@@ -1,0 +1,136 @@
+{
+    "nombreApp" : "Puntos Panda",
+    "puntos" : [
+        {
+            "ciudad"      : "La Paz",
+            "ruta"        : "lapaz",
+            "ubicaciones" : [
+                    {
+                        "lugar"     : "Centro",
+                        "ubicacion" : "Av. Federico Zuazo"
+                    },
+                    {
+                        "lugar"     : "Zona Sur",
+                        "ubicacion" : "Achumani, entre calles 11 y 12"
+                    },
+                    {
+                        "lugar"     : "Zona Sur",
+                        "ubicacion" : "Calle 17 de Obrajes, subiendo hacia bella vista"
+                    },
+                    {
+                        "lugar"     : "Zona Sur",
+                        "ubicacion" : "Calacoto, calle 13, casi frente al Hotel Calacoto"
+                    },
+                    {
+                        "lugar"     : "Centro",
+                        "ubicacion" : "Plaza Murillo"
+                    },
+                    {
+                        "lugar"     : "Zona Sur",
+                        "ubicacion" : "Los Pinos - Calle 2, Almacen Los Pinos"
+                    },
+                    {
+                        "lugar"     : "Zona Sur",
+                        "ubicacion" : "Av. Ovanco Candia - entre 8 y 9 de Irpavi, Almacen Ovando"
+                    }
+            ]
+            
+        },
+        {
+            "ciudad"      : "El Alto",
+            "ruta"        : "elalto",
+            "ubicaciones" : [
+                    {
+                        "lugar"     : "Rio Seco",
+                        "ubicacion" : "Puente Rio Seco. Final Av. de Villa Tunari"
+                    },
+                    {
+                        "lugar"     : "Rio Seco",
+                        "ubicacion" : "Extranca Rio Seco, Subiendo la planta de luz"
+                    },
+                    {
+                        "lugar"     : "Villa Dolores",
+                        "ubicacion" : "Calle Arica, a una cuadra de llegar a la escuela Brasilia"
+                    },
+                    {
+                        "lugar"     : "Romero Pampa",
+                        "ubicacion" : "Cerca al colegio Illimani"
+                    },
+                    {
+                        "lugar"     : "Ciudad Satélite",
+                        "ubicacion" : "Parada CH"
+                    },
+                    {
+                        "lugar"     : "Juan Pablo II",
+                        "ubicacion" : "Entre la Av. Juan Pablo II y Chacaltaya"
+                    },
+                    {
+                        "lugar"     : "Ceibo",
+                        "ubicacion" : "En el pasaje de telas"
+                    },
+                    {
+                        "lugar"     : "Villa Adela",
+                        "ubicacion" : "Frente al colegio Cuerpo de Cristo"
+                    },
+                    {
+                        "lugar"     : "Franco Valle",
+                        "ubicacion" : "Calle 7 Franco Valle"
+                    }
+            ]
+            
+        },
+        {
+            "ciudad"      : "Cochabamba",
+            "ruta"        : "cochabamba",
+            "ubicaciones" : [
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "América y Libertador: Supermercado América"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle Reza casi Junín, acera norte"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Tadeo Haenke antes de Bartolomé de las casas, acera Sud"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle Daniel Albornoz, frente al Salón Boheme"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Amḿerica este y Calle Villalobos, acera sud"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle 25 de mayo entre Colombia y Heroínas, frente a Elis"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle Paccieri y Antezana, esquina Sud"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle Venezuela y Antezana, acera Norte"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Calle Irigoyen y Yuracare, acera norte (Zona Sarco)"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Avenida América y René Moreno, acera Norte"
+                    },
+                    {
+                        "lugar"     : "Cochabamba",
+                        "ubicacion" : "Micromercado del surtidor El Cristo"
+                    }
+            ]
+            
+        }
+
+
+    ]
+}
